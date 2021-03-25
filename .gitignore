@@ -1,0 +1,4 @@
+# ignore all datasets
+/__MACOSX
+/data
+data.txt
